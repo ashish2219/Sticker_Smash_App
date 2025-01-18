@@ -41,7 +41,7 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## ScreenShot
 
-![Sticker Smash App](https://drive.google.com/file/d/1AQzoc4gXDxdRoOz96a40B4oSFWLtRau5/view?usp=sharing)
+![Sticker Smash App](StickerSmash-1.png)
 
 ## Learn more
 
