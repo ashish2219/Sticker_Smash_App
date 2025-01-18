@@ -1,5 +1,9 @@
 # Welcome to your Expo app 👋
 
+# About
+
+Sticker Smash is a simple and engaging mobile game built with React Native. This tutorial project demonstrates core React Native concepts. This app let's you select an image and then add an emoji on it and then save it in the memory. It comes with functionality like "double tap to zoom in and zoom out" and dragging of emoji to anywhere on the image.
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
