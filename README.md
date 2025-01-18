@@ -41,7 +41,7 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## ScreenShot
 
-<img src="assets\images\StickerSmash.png" alt="Sticker Smash App" width="200" height="100" />
+<img src="assets\images\StickerSmash.png" alt="Sticker Smash App" width="250" height="380" />
 
 ## Learn more
 
